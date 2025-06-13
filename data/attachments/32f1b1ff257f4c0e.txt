@@ -1,0 +1,10 @@
+INFO     selenium:basepage.py:213 main title元素完全渲染成功,定位方式('id', 'com.huiyun.care.viewerpro:id/careLogo')
+INFO     selenium:basepage.py:348 main title获取文本成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/careLogo'), 文本内容: 牵心智能
+INFO     selenium:basepage.py:191 loading_text元素已消失或不可见, 定位方式('id', 'com.huiyun.care.viewerpro:id/srl_classics_title')
+INFO     selenium:basepage.py:191 loading_completed元素已消失或不可见, 定位方式('xpath', '//android.widget.TextView[@resource-id="com.huiyun.care.viewerpro:id/srl_classics_title"]')
+INFO     selenium:basepage.py:232 play_btn元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/playBtn')
+INFO     selenium:basepage.py:284 play_btn点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/playBtn')
+INFO     selenium:basepage.py:213 页面标题元素完全渲染成功,定位方式('id', 'com.huiyun.care.viewerpro:id/electronic_zoom_icon')
+INFO     selenium:basepage.py:348 页面标题获取文本成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/electronic_zoom_icon'), 文本内容: 变倍
+INFO     selenium:basepage.py:331 获取页面 Activity获取当前 Activity 成功, Activity 名称: com.huiyun.care.viewer.main.LiveVideoActivity
+INFO     selenium:basepage.py:79 expect_activity: main.LiveVideoActivity, current_activity: com.huiyun.care.viewer.main.LiveVideoActivity

@@ -1,0 +1,13 @@
+INFO     selenium:basepage.py:191 loading_text元素已消失或不可见, 定位方式('id', 'com.huiyun.care.viewerpro:id/srl_classics_title')
+INFO     selenium:basepage.py:191 loading_completed元素已消失或不可见, 定位方式('xpath', '//android.widget.TextView[@resource-id="com.huiyun.care.viewerpro:id/srl_classics_title"]')
+INFO     selenium:basepage.py:232 more_btn_2元素可点击,定位方式('xpath', "(//android.widget.ImageView[@resource-id='com.huiyun.care.viewerpro:id/settingIv'])[2]")
+INFO     selenium:basepage.py:284 more_btn_2点击元素成功, 定位方式('xpath', "(//android.widget.ImageView[@resource-id='com.huiyun.care.viewerpro:id/settingIv'])[2]")
+INFO     selenium:basepage.py:232 video_setting_btn元素可点击,定位方式('-android uiautomator', 'new UiSelector().text("设置")')
+INFO     selenium:basepage.py:284 video_setting_btn点击元素成功, 定位方式('-android uiautomator', 'new UiSelector().text("设置")')
+INFO     selenium:basepage.py:437 swipe to delete_device btn第1次滑动滑动成功, 从(540, 1920.0)到(540, 480.0)
+INFO     selenium:basepage.py:469 swipe to delete_device btn滑动找到元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/delete_device_btn'), 滑动次数: 2
+INFO     selenium:basepage.py:232 delete_device_btn元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/delete_device_btn')
+INFO     selenium:basepage.py:284 delete_device_btn点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/delete_device_btn')
+INFO     selenium:setting_page.py:93 点击 delete_device_btn 成功
+INFO     selenium:basepage.py:232 DELETE_CONFIRM_BTN元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/right_btn')
+INFO     selenium:basepage.py:284 DELETE_CONFIRM_BTN点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/right_btn')

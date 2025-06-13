@@ -1,0 +1,29 @@
+INFO     selenium:basepage.py:232 me_btn元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/user_layout')
+INFO     selenium:basepage.py:284 me_btn点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/user_layout')
+INFO     selenium:basepage.py:232 album_btn元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/loacal_album_layout')
+INFO     selenium:basepage.py:284 album_btn点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/loacal_album_layout')
+INFO     selenium:basepage.py:232 local_video_screenshot_btn元素可点击,定位方式('-android uiautomator', 'new UiSelector().text("本地视频截图")')
+INFO     selenium:basepage.py:284 local_video_screenshot_btn点击元素成功, 定位方式('-android uiautomator', 'new UiSelector().text("本地视频截图")')
+INFO     selenium:basepage.py:268 找到 1 个元素: local_capture_list
+INFO     selenium:basepage.py:232 batch_delete_btn元素可点击,定位方式('xpath', '//android.widget.TextView[@resource-id="com.huiyun.care.viewerpro:id/right_text"]')
+INFO     selenium:basepage.py:284 batch_delete_btn点击元素成功, 定位方式('xpath', '//android.widget.TextView[@resource-id="com.huiyun.care.viewerpro:id/right_text"]')
+INFO     selenium:basepage.py:232 batch_delete_confirm_btn元素可点击,定位方式('id', 'android:id/button1')
+INFO     selenium:basepage.py:284 batch_delete_confirm_btn点击元素成功, 定位方式('id', 'android:id/button1')
+INFO     selenium:basepage.py:191 batch_delete_btn元素已消失或不可见, 定位方式('xpath', '//android.widget.TextView[@resource-id="com.huiyun.care.viewerpro:id/right_text"]')
+INFO     selenium:basepage.py:331 获取当前 Activity 成功, Activity 名称: com.huiyun.care.viewer.user.VideoListActivity
+INFO     selenium:basepage.py:523 点击返回键 1/2
+INFO     selenium:basepage.py:331 获取新的 Activity获取当前 Activity 成功, Activity 名称: com.huiyun.care.viewer.user.LocalAlbumActivity
+INFO     selenium:basepage.py:523 点击返回键 2/2
+INFO     selenium:basepage.py:331 获取新的 Activity获取当前 Activity 成功, Activity 名称: com.huiyun.care.viewer.main.CareMainActivity
+INFO     selenium:basepage.py:251 home_btn元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/device_tv')
+INFO     selenium:basepage.py:300 home_btn点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/device_tv')
+INFO     selenium:basepage.py:191 loading_text元素已消失或不可见, 定位方式('id', 'com.huiyun.care.viewerpro:id/srl_classics_title')
+INFO     selenium:basepage.py:191 loading_completed元素已消失或不可见, 定位方式('xpath', '//android.widget.TextView[@resource-id="com.huiyun.care.viewerpro:id/srl_classics_title"]')
+INFO     selenium:basepage.py:232 play_btn元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/playBtn')
+INFO     selenium:basepage.py:284 play_btn点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/playBtn')
+INFO     selenium:basepage.py:213 wifi_sign元素完全渲染成功,定位方式('id', 'com.huiyun.care.viewerpro:id/vertical_land_network_speed')
+INFO     selenium:basepage.py:232 capture_btn元素可点击,定位方式('-android uiautomator', 'new UiSelector().resourceId("com.huiyun.care.viewerpro:id/capture_imgBtn")')
+INFO     selenium:basepage.py:284 capture_btn点击元素成功, 定位方式('-android uiautomator', 'new UiSelector().resourceId("com.huiyun.care.viewerpro:id/capture_imgBtn")')
+INFO     selenium:basepage.py:232 check_btn元素可点击,定位方式('xpath', '//android.widget.TextView[@text="查看"]')
+INFO     selenium:basepage.py:284 check_btn点击元素成功, 定位方式('xpath', '//android.widget.TextView[@text="查看"]')
+INFO     selenium:basepage.py:268 找到 1 个元素: local_video_capture_list

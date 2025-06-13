@@ -1,0 +1,5 @@
+INFO     selenium:basepage.py:232 me_btn元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/user_layout')
+INFO     selenium:basepage.py:284 me_btn点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/user_layout')
+INFO     selenium:basepage.py:232 元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/user_setting_iv')
+INFO     selenium:basepage.py:284 点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/user_setting_iv')
+INFO     selenium:basepage.py:331 测试获取当前 Activity获取当前 Activity 成功, Activity 名称: com.huiyun.care.viewer.user.UserInfoActivity

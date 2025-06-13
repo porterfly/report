@@ -1,0 +1,23 @@
+INFO     selenium:basepage.py:191 loading_text元素已消失或不可见, 定位方式('id', 'com.huiyun.care.viewerpro:id/srl_classics_title')
+INFO     selenium:basepage.py:191 loading_completed元素已消失或不可见, 定位方式('xpath', '//android.widget.TextView[@resource-id="com.huiyun.care.viewerpro:id/srl_classics_title"]')
+INFO     selenium:basepage.py:232 play_btn元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/playBtn')
+INFO     selenium:basepage.py:284 play_btn点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/playBtn')
+INFO     selenium:basepage.py:232 zoome_icon元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/electronic_zoom_icon')
+INFO     selenium:basepage.py:284 zoome_icon点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/electronic_zoom_icon')
+INFO     selenium:basepage.py:213 video_zoom_title元素完全渲染成功,定位方式('id', 'com.huiyun.care.viewerpro:id/change_video_zoom_title')
+INFO     selenium:basepage.py:232 add_zoom_btn元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/add_video_zoom_btn')
+INFO     selenium:basepage.py:284 add_zoom_btn点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/add_video_zoom_btn')
+INFO     selenium:basepage.py:213 zoom_text元素完全渲染成功,定位方式('id', 'com.huiyun.care.viewerpro:id/current_video_zoom_tv')
+INFO     selenium:basepage.py:348 zoom_text获取文本成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/current_video_zoom_tv'), 文本内容: 2x
+INFO     selenium:basepage.py:232 add_zoom_btn元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/add_video_zoom_btn')
+INFO     selenium:basepage.py:284 add_zoom_btn点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/add_video_zoom_btn')
+INFO     selenium:basepage.py:213 zoom_text元素完全渲染成功,定位方式('id', 'com.huiyun.care.viewerpro:id/current_video_zoom_tv')
+INFO     selenium:basepage.py:348 zoom_text获取文本成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/current_video_zoom_tv'), 文本内容: 3x
+INFO     selenium:basepage.py:232 minus_zoom_btn元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/minus_video_zoom_btn')
+INFO     selenium:basepage.py:284 minus_zoom_btn点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/minus_video_zoom_btn')
+INFO     selenium:basepage.py:213 zoom_text元素完全渲染成功,定位方式('id', 'com.huiyun.care.viewerpro:id/current_video_zoom_tv')
+INFO     selenium:basepage.py:348 zoom_text获取文本成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/current_video_zoom_tv'), 文本内容: 2x
+INFO     selenium:basepage.py:232 minus_zoom_btn元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/minus_video_zoom_btn')
+INFO     selenium:basepage.py:284 minus_zoom_btn点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/minus_video_zoom_btn')
+INFO     selenium:basepage.py:213 zoom_text元素完全渲染成功,定位方式('id', 'com.huiyun.care.viewerpro:id/current_video_zoom_tv')
+INFO     selenium:basepage.py:348 zoom_text获取文本成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/current_video_zoom_tv'), 文本内容: 1x

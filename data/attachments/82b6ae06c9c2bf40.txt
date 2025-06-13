@@ -1,0 +1,30 @@
+INFO     selenium:basepage.py:191 loading_text元素已消失或不可见, 定位方式('id', 'com.huiyun.care.viewerpro:id/srl_classics_title')
+INFO     selenium:basepage.py:191 loading_completed元素已消失或不可见, 定位方式('xpath', '//android.widget.TextView[@resource-id="com.huiyun.care.viewerpro:id/srl_classics_title"]')
+INFO     selenium:basepage.py:232 more_btn_1元素可点击,定位方式('xpath', "(//android.widget.ImageView[@resource-id='com.huiyun.care.viewerpro:id/settingIv'])[1]")
+INFO     selenium:basepage.py:284 more_btn_1点击元素成功, 定位方式('xpath', "(//android.widget.ImageView[@resource-id='com.huiyun.care.viewerpro:id/settingIv'])[1]")
+INFO     selenium:basepage.py:232 video_setting_btn元素可点击,定位方式('-android uiautomator', 'new UiSelector().text("设置")')
+INFO     selenium:basepage.py:284 video_setting_btn点击元素成功, 定位方式('-android uiautomator', 'new UiSelector().text("设置")')
+INFO     selenium:basepage.py:232 device_name_edit_btn元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/device_edit_info')
+INFO     selenium:basepage.py:284 device_name_edit_btn点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/device_edit_info')
+INFO     selenium:setting_page.py:12 点击 device_name_edit_btn 成功
+INFO     selenium:basepage.py:172 input device_name_field等待元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/camera_input')
+INFO     selenium:basepage.py:318 input device_name_field输入文本成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/camera_input'), 输入内容: special(12@+*)
+INFO     selenium:setting_page.py:102 输入 device_name_field 成功: {text}
+INFO     selenium:basepage.py:232 complete_btn元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/next_btn')
+INFO     selenium:basepage.py:284 complete_btn点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/next_btn')
+INFO     selenium:setting_page.py:120 点击 complete_btn 成功
+ERROR    selenium:basepage.py:175 device_name_text等待元素失败, 定位方式('id', 'com.huiyun.care.viewerpro:id/setting_device_name'), 错误: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (/Users/luson/.appium/node_modules/appium-uiautomator2-driver/node_modules/appium-android-driver/lib/commands/find.ts:86:11)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at AndroidUiautomator2Driver.findElOrElsWithProcessing (/usr/local/lib/node_modules/appium/node_modules/@appium/base-driver/lib/basedriver/commands/find.ts:60:12)
+    at AndroidUiautomator2Driver.findElement (/usr/local/lib/node_modules/appium/node_modules/@appium/base-driver/lib/basedriver/commands/find.ts:75:12)
+ERROR    selenium:basepage.py:151 截图保存成功: /Users/luson/.jenkins/workspace/CamPro-AutoTest/screenshots/device_name_text_20250613_161829.png
+ERROR    selenium:basepage.py:368 device_name_text获取属性失败, 定位方式('id', 'com.huiyun.care.viewerpro:id/setting_device_name'), 错误: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (/Users/luson/.appium/node_modules/appium-uiautomator2-driver/node_modules/appium-android-driver/lib/commands/find.ts:86:11)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at AndroidUiautomator2Driver.findElOrElsWithProcessing (/usr/local/lib/node_modules/appium/node_modules/@appium/base-driver/lib/basedriver/commands/find.ts:60:12)
+    at AndroidUiautomator2Driver.findElement (/usr/local/lib/node_modules/appium/node_modules/@appium/base-driver/lib/basedriver/commands/find.ts:75:12)

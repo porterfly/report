@@ -1,0 +1,14 @@
+INFO     selenium:basepage.py:172 login_input_field等待元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/login_account_et')
+INFO     selenium:basepage.py:318 login_input_field输入文本成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/login_account_et'), 输入内容: 1922338717@qq.com
+INFO     selenium:basepage.py:172 agree_btn等待元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/checkbox_user_agreenment')
+INFO     selenium:basepage.py:232 continue_btn元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/login_but')
+INFO     selenium:basepage.py:284 continue_btn点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/login_but')
+INFO     selenium:basepage.py:172 pwd_field等待元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/password_et')
+INFO     selenium:basepage.py:318 pwd_field输入文本成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/password_et'), 输入内容: 12345678
+INFO     selenium:basepage.py:232 sign_in_btn元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/register_but')
+INFO     selenium:basepage.py:284 sign_in_btn点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/register_but')
+INFO     selenium:basepage.py:213 sign_in_title元素完全渲染成功,定位方式('id', 'com.huiyun.care.viewerpro:id/title_text')
+INFO     selenium:basepage.py:348 sign_in_title获取文本成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/title_text'), 文本内容: 登录
+INFO     selenium:login_page.py:59 已停止应用: com.huiyun.care.viewerpro
+INFO     selenium:login_page.py:62 已重新启动登录 Activity
+INFO     selenium:basepage.py:172 等待登录页面加载等待元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/login_account_et')

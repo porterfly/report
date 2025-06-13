@@ -1,0 +1,8 @@
+INFO     selenium:basepage.py:232 me_btn元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/user_layout')
+INFO     selenium:basepage.py:284 me_btn点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/user_layout')
+INFO     selenium:basepage.py:232 about_btn元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/about_layout')
+INFO     selenium:basepage.py:284 about_btn点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/about_layout')
+INFO     selenium:basepage.py:213 页面标题元素完全渲染成功,定位方式('-android uiautomator', 'new UiSelector().text("官方网站：http://www.smartcloudcon.com")')
+INFO     selenium:basepage.py:348 页面标题获取文本成功, 定位方式('-android uiautomator', 'new UiSelector().text("官方网站：http://www.smartcloudcon.com")'), 文本内容: 官方网站：http://www.smartcloudcon.com
+INFO     selenium:basepage.py:331 获取页面 Activity获取当前 Activity 成功, Activity 名称: com.huiyun.care.viewer.user.AboutActivity
+INFO     selenium:basepage.py:79 expect_activity: user.AboutActivity, current_activity: com.huiyun.care.viewer.user.AboutActivity

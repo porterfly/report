@@ -1,0 +1,14 @@
+INFO     selenium:basepage.py:191 loading_text元素已消失或不可见, 定位方式('id', 'com.huiyun.care.viewerpro:id/srl_classics_title')
+INFO     selenium:basepage.py:191 loading_completed元素已消失或不可见, 定位方式('xpath', '//android.widget.TextView[@resource-id="com.huiyun.care.viewerpro:id/srl_classics_title"]')
+INFO     selenium:basepage.py:232 play_btn元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/playBtn')
+INFO     selenium:basepage.py:284 play_btn点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/playBtn')
+INFO     selenium:basepage.py:172 video_quality等待元素成功, 定位方式('xpath', '//android.widget.TextView[@resource-id="com.huiyun.care.viewerpro:id/current_quality_tv"]')
+INFO     selenium:basepage.py:365 video_quality获取属性成功, 定位方式('xpath', '//android.widget.TextView[@resource-id="com.huiyun.care.viewerpro:id/current_quality_tv"]'), 属性: text, 值: 高清
+INFO     selenium:basepage.py:232 video_quality元素可点击,定位方式('xpath', '//android.widget.TextView[@resource-id="com.huiyun.care.viewerpro:id/current_quality_tv"]')
+INFO     selenium:basepage.py:232 元素可点击,定位方式('xpath', '//android.widget.TextView[@resource-id="com.huiyun.care.viewerpro:id/current_quality_tv"]')
+INFO     selenium:basepage.py:284 点击元素成功, 定位方式('xpath', '//android.widget.TextView[@resource-id="com.huiyun.care.viewerpro:id/current_quality_tv"]')
+INFO     selenium:basepage.py:172 video_quality等待元素成功, 定位方式('xpath', '//android.widget.TextView[@resource-id="com.huiyun.care.viewerpro:id/current_quality_tv"]')
+INFO     selenium:basepage.py:365 video_quality获取属性成功, 定位方式('xpath', '//android.widget.TextView[@resource-id="com.huiyun.care.viewerpro:id/current_quality_tv"]'), 属性: text, 值: 超清
+INFO     selenium:basepage.py:232 video_quality元素可点击,定位方式('xpath', '//android.widget.TextView[@resource-id="com.huiyun.care.viewerpro:id/current_quality_tv"]')
+INFO     selenium:basepage.py:232 元素可点击,定位方式('xpath', '//android.widget.TextView[@resource-id="com.huiyun.care.viewerpro:id/current_quality_tv"]')
+INFO     selenium:basepage.py:284 点击元素成功, 定位方式('xpath', '//android.widget.TextView[@resource-id="com.huiyun.care.viewerpro:id/current_quality_tv"]')

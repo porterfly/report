@@ -1,0 +1,18 @@
+INFO     selenium:basepage.py:232 me_btn元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/user_layout')
+INFO     selenium:basepage.py:284 me_btn点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/user_layout')
+INFO     selenium:basepage.py:232 order_btn元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/user_store_ll')
+INFO     selenium:basepage.py:284 order_btn点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/user_store_ll')
+INFO     selenium:basepage.py:232 order_sign元素可点击,定位方式('-android uiautomator', 'new UiSelector().resourceId("com.huiyun.care.viewerpro:id/right_text")')
+INFO     selenium:basepage.py:284 order_sign点击元素成功, 定位方式('-android uiautomator', 'new UiSelector().resourceId("com.huiyun.care.viewerpro:id/right_text")')
+INFO     selenium:basepage.py:232 select_service_btn元素可点击,定位方式('-android uiautomator', 'new UiSelector().text("选择设备")')
+INFO     selenium:basepage.py:284 select_service_btn点击元素成功, 定位方式('-android uiautomator', 'new UiSelector().text("选择设备")')
+INFO     selenium:basepage.py:232 select_first_device元素可点击,定位方式('-android uiautomator', 'new UiSelector().text("nol")')
+INFO     selenium:basepage.py:284 select_first_device点击元素成功, 定位方式('-android uiautomator', 'new UiSelector().text("nol")')
+INFO     selenium:basepage.py:172 exchange_code_input等待元素成功, 定位方式('xpath', '//android.view.View[@resource-id="app"]/android.view.View[2]/android.view.View/android.widget.EditText')
+INFO     selenium:basepage.py:318 exchange_code_input输入文本成功, 定位方式('xpath', '//android.view.View[@resource-id="app"]/android.view.View[2]/android.view.View/android.widget.EditText'), 输入内容: exchange
+INFO     selenium:basepage.py:268 找到 7 个元素: verify_code_image
+WARNING  selenium:my_page.py:149 识别出的验证码：XGC
+INFO     selenium:basepage.py:172 verify_code_input等待元素成功, 定位方式('xpath', '//android.view.View[@resource-id="app"]/android.view.View[3]/android.view.View[1]/android.view.View/android.view.View/android.widget.EditText')
+INFO     selenium:basepage.py:318 verify_code_input输入文本成功, 定位方式('xpath', '//android.view.View[@resource-id="app"]/android.view.View[3]/android.view.View[1]/android.view.View/android.view.View/android.widget.EditText'), 输入内容: XGC
+INFO     selenium:basepage.py:232 activate_btn元素可点击,定位方式('xpath', '//android.widget.Button[@text="立即激活"]')
+INFO     selenium:basepage.py:284 activate_btn点击元素成功, 定位方式('xpath', '//android.widget.Button[@text="立即激活"]')

@@ -1,0 +1,12 @@
+INFO     selenium:basepage.py:191 loading_text元素已消失或不可见, 定位方式('id', 'com.huiyun.care.viewerpro:id/srl_classics_title')
+INFO     selenium:basepage.py:191 loading_completed元素已消失或不可见, 定位方式('xpath', '//android.widget.TextView[@resource-id="com.huiyun.care.viewerpro:id/srl_classics_title"]')
+INFO     selenium:basepage.py:232 play_btn元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/playBtn')
+INFO     selenium:basepage.py:284 play_btn点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/playBtn')
+ERROR    selenium:basepage.py:216 wifi_sign元素完全渲染失败,定位方式('id', 'com.huiyun.care.viewerpro:id/vertical_land_network_speed'), 错误信息: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (/Users/luson/.appium/node_modules/appium-uiautomator2-driver/node_modules/appium-android-driver/lib/commands/find.ts:86:11)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at AndroidUiautomator2Driver.findElOrElsWithProcessing (/usr/local/lib/node_modules/appium/node_modules/@appium/base-driver/lib/basedriver/commands/find.ts:60:12)
+    at AndroidUiautomator2Driver.findElement (/usr/local/lib/node_modules/appium/node_modules/@appium/base-driver/lib/basedriver/commands/find.ts:75:12)
+ERROR    selenium:basepage.py:151 截图保存成功: /Users/luson/.jenkins/workspace/CamPro-AutoTest/screenshots/wifi_sign_20250613_102438.png

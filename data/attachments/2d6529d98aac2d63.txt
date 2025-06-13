@@ -1,0 +1,6 @@
+INFO     selenium:basepage.py:191 loading_text元素已消失或不可见, 定位方式('id', 'com.huiyun.care.viewerpro:id/srl_classics_title')
+INFO     selenium:basepage.py:191 loading_completed元素已消失或不可见, 定位方式('xpath', '//android.widget.TextView[@resource-id="com.huiyun.care.viewerpro:id/srl_classics_title"]')
+INFO     selenium:basepage.py:232 message_btn元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/msgIv')
+INFO     selenium:basepage.py:284 message_btn点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/msgIv')
+INFO     selenium:basepage.py:213 页面标题元素完全渲染成功,定位方式('id', 'com.huiyun.care.viewerpro:id/msgTitleTv')
+INFO     selenium:basepage.py:348 页面标题获取文本成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/msgTitleTv'), 文本内容: 消息

@@ -1,0 +1,8 @@
+INFO     selenium:basepage.py:232 me_btn元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/user_layout')
+INFO     selenium:basepage.py:284 me_btn点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/user_layout')
+INFO     selenium:basepage.py:232 元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/user_setting_iv')
+INFO     selenium:basepage.py:284 点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/user_setting_iv')
+INFO     selenium:basepage.py:232 privacy_btn元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/privacy_view')
+INFO     selenium:basepage.py:284 privacy_btn点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/privacy_view')
+INFO     selenium:basepage.py:213 privacy_title元素完全渲染成功,定位方式('-android uiautomator', 'new UiSelector().text("隐私协议")')
+INFO     selenium:basepage.py:348 privacy_title获取文本成功, 定位方式('-android uiautomator', 'new UiSelector().text("隐私协议")'), 文本内容: 隐私协议

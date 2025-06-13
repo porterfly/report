@@ -1,0 +1,11 @@
+INFO     selenium:basepage.py:232 mutil_screen_btn元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/multiScreenBtn')
+INFO     selenium:basepage.py:284 mutil_screen_btn点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/multiScreenBtn')
+INFO     selenium:basepage.py:232 add_mutil_screen_btn元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/newAddBtn')
+INFO     selenium:basepage.py:284 add_mutil_screen_btn点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/newAddBtn')
+INFO     selenium:basepage.py:512 select_device_radio点击所有元素成功, 定位方式('class name', 'android.widget.RadioButton')
+INFO     selenium:basepage.py:232 select_device_next_step_btn元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/right_tv')
+INFO     selenium:basepage.py:284 select_device_next_step_btn点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/right_tv')
+INFO     selenium:basepage.py:172 add_device_name_input等待元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/edit_et')
+INFO     selenium:basepage.py:318 add_device_name_input输入文本成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/edit_et'), 输入内容: 分组摄像机
+INFO     selenium:basepage.py:232 next_step_btn元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/next_btn')
+INFO     selenium:basepage.py:284 next_step_btn点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/next_btn')

@@ -1,0 +1,8 @@
+INFO     selenium:basepage.py:232 me_btn元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/user_layout')
+INFO     selenium:basepage.py:284 me_btn点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/user_layout')
+INFO     selenium:basepage.py:232 元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/user_setting_iv')
+INFO     selenium:basepage.py:284 点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/user_setting_iv')
+INFO     selenium:basepage.py:232 user_agreement_btn元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/user_agreement')
+INFO     selenium:basepage.py:284 user_agreement_btn点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/user_agreement')
+INFO     selenium:basepage.py:213 user_agreement_title元素完全渲染成功,定位方式('xpath', '//android.widget.TextView[@text="重要提示："]')
+INFO     selenium:basepage.py:348 user_agreement_title获取文本成功, 定位方式('xpath', '//android.widget.TextView[@text="重要提示："]'), 文本内容: 重要提示：

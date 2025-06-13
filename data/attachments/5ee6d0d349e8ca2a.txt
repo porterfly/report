@@ -1,0 +1,30 @@
+INFO     selenium:basepage.py:191 loading_text元素已消失或不可见, 定位方式('id', 'com.huiyun.care.viewerpro:id/srl_classics_title')
+INFO     selenium:basepage.py:191 loading_completed元素已消失或不可见, 定位方式('xpath', '//android.widget.TextView[@resource-id="com.huiyun.care.viewerpro:id/srl_classics_title"]')
+INFO     selenium:basepage.py:232 more_btn_1元素可点击,定位方式('xpath', "(//android.widget.ImageView[@resource-id='com.huiyun.care.viewerpro:id/settingIv'])[1]")
+INFO     selenium:basepage.py:284 more_btn_1点击元素成功, 定位方式('xpath', "(//android.widget.ImageView[@resource-id='com.huiyun.care.viewerpro:id/settingIv'])[1]")
+INFO     selenium:basepage.py:232 video_setting_btn元素可点击,定位方式('-android uiautomator', 'new UiSelector().text("设置")')
+INFO     selenium:basepage.py:284 video_setting_btn点击元素成功, 定位方式('-android uiautomator', 'new UiSelector().text("设置")')
+INFO     selenium:basepage.py:232 alarm_notice_btn元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/notice_setting_status')
+INFO     selenium:basepage.py:284 alarm_notice_btn点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/notice_setting_status')
+INFO     selenium:setting_page.py:66 点击 alarm_notice_btn 成功
+INFO     selenium:basepage.py:232 to_enhance_notice_btn元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/allow_enhanced_alert_status')
+INFO     selenium:basepage.py:284 to_enhance_notice_btn点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/allow_enhanced_alert_status')
+INFO     selenium:alarm_notice_page.py:52 点击 to_enhance_notice_btn 成功
+INFO     selenium:basepage.py:172 FULL_SCREEN_NOTICE_BTN等待元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/full_screen_remind_radio')
+INFO     selenium:basepage.py:365 FULL_SCREEN_NOTICE_BTN获取属性成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/full_screen_remind_radio'), 属性: checked, 值: false
+INFO     selenium:basepage.py:232 save_btn元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/right_text')
+INFO     selenium:basepage.py:284 save_btn点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/right_text')
+INFO     selenium:alarm_notice_page.py:68 点击 save_btn 成功
+INFO     selenium:basepage.py:232 to_enhance_notice_btn元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/allow_enhanced_alert_status')
+INFO     selenium:basepage.py:284 to_enhance_notice_btn点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/allow_enhanced_alert_status')
+INFO     selenium:alarm_notice_page.py:52 点击 to_enhance_notice_btn 成功
+INFO     selenium:basepage.py:232 FULL_SCREEN_NOTICE_BTN元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/full_screen_remind_radio')
+INFO     selenium:basepage.py:284 FULL_SCREEN_NOTICE_BTN点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/full_screen_remind_radio')
+INFO     selenium:basepage.py:232 save_btn元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/right_text')
+INFO     selenium:basepage.py:284 save_btn点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/right_text')
+INFO     selenium:alarm_notice_page.py:68 点击 save_btn 成功
+INFO     selenium:basepage.py:232 to_enhance_notice_btn元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/allow_enhanced_alert_status')
+INFO     selenium:basepage.py:284 to_enhance_notice_btn点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/allow_enhanced_alert_status')
+INFO     selenium:alarm_notice_page.py:52 点击 to_enhance_notice_btn 成功
+INFO     selenium:basepage.py:172 FULL_SCREEN_NOTICE_BTN等待元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/full_screen_remind_radio')
+INFO     selenium:basepage.py:365 FULL_SCREEN_NOTICE_BTN获取属性成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/full_screen_remind_radio'), 属性: checked, 值: true

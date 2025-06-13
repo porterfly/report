@@ -1,0 +1,49 @@
+INFO     selenium:basepage.py:191 loading_text元素已消失或不可见, 定位方式('id', 'com.huiyun.care.viewerpro:id/srl_classics_title')
+INFO     selenium:basepage.py:191 loading_completed元素已消失或不可见, 定位方式('xpath', '//android.widget.TextView[@resource-id="com.huiyun.care.viewerpro:id/srl_classics_title"]')
+INFO     selenium:basepage.py:232 play_btn元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/playBtn')
+INFO     selenium:basepage.py:284 play_btn点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/playBtn')
+INFO     selenium:basepage.py:213 wifi_sign元素完全渲染成功,定位方式('id', 'com.huiyun.care.viewerpro:id/vertical_land_network_speed')
+INFO     selenium:basepage.py:251 video_mode_select元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/play_mode_select')
+INFO     selenium:basepage.py:300 video_mode_select点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/play_mode_select')
+INFO     selenium:basepage.py:232 single_screen_mode元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/video_single_tv')
+INFO     selenium:basepage.py:284 single_screen_mode点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/video_single_tv')
+INFO     selenium:basepage.py:213 wifi_sign元素完全渲染成功,定位方式('id', 'com.huiyun.care.viewerpro:id/vertical_land_network_speed')
+INFO     selenium:basepage.py:268 找到 1 个元素: video_num
+INFO     selenium:basepage.py:213 wifi_sign元素完全渲染成功,定位方式('id', 'com.huiyun.care.viewerpro:id/vertical_land_network_speed')
+WARNING  selenium:basepage.py:254 video_mode_select元素一直不可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/play_mode_select'), 错误信息: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (/Users/luson/.appium/node_modules/appium-uiautomator2-driver/node_modules/appium-android-driver/lib/commands/find.ts:86:11)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at AndroidUiautomator2Driver.findElOrElsWithProcessing (/usr/local/lib/node_modules/appium/node_modules/@appium/base-driver/lib/basedriver/commands/find.ts:60:12)
+    at AndroidUiautomator2Driver.findElement (/usr/local/lib/node_modules/appium/node_modules/@appium/base-driver/lib/basedriver/commands/find.ts:75:12)
+WARNING  selenium:basepage.py:302 video_mode_select点击元素失败, 定位方式('id', 'com.huiyun.care.viewerpro:id/play_mode_select'), 错误: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (/Users/luson/.appium/node_modules/appium-uiautomator2-driver/node_modules/appium-android-driver/lib/commands/find.ts:86:11)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at AndroidUiautomator2Driver.findElOrElsWithProcessing (/usr/local/lib/node_modules/appium/node_modules/@appium/base-driver/lib/basedriver/commands/find.ts:60:12)
+    at AndroidUiautomator2Driver.findElement (/usr/local/lib/node_modules/appium/node_modules/@appium/base-driver/lib/basedriver/commands/find.ts:75:12)
+ERROR    selenium:basepage.py:151 截图保存成功: /Users/luson/.jenkins/workspace/CamPro-AutoTest/screenshots/video_mode_select_20250613_160350.png
+INFO     selenium:basepage.py:395 video_center点击成功, 在(555, 1025)位置
+INFO     selenium:basepage.py:251 video_mode_select元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/play_mode_select')
+INFO     selenium:basepage.py:300 video_mode_select点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/play_mode_select')
+INFO     selenium:basepage.py:232 double_screen_mode元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/video_double_tv')
+INFO     selenium:basepage.py:284 double_screen_mode点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/video_double_tv')
+INFO     selenium:basepage.py:213 wifi_sign元素完全渲染成功,定位方式('id', 'com.huiyun.care.viewerpro:id/vertical_land_network_speed')
+INFO     selenium:basepage.py:268 找到 2 个元素: video_num
+INFO     selenium:basepage.py:213 wifi_sign元素完全渲染成功,定位方式('id', 'com.huiyun.care.viewerpro:id/vertical_land_network_speed')
+INFO     selenium:basepage.py:251 video_mode_select元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/play_mode_select')
+INFO     selenium:basepage.py:300 video_mode_select点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/play_mode_select')
+INFO     selenium:basepage.py:232 immerse_screen_mode元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/video_immersion_tv')
+INFO     selenium:basepage.py:284 immerse_screen_mode点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/video_immersion_tv')
+INFO     selenium:basepage.py:213 wifi_sign元素完全渲染成功,定位方式('id', 'com.huiyun.care.viewerpro:id/vertical_land_network_speed')
+INFO     selenium:basepage.py:268 找到 2 个元素: video_num
+INFO     selenium:basepage.py:232 immerse_screen_mode_sign元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/screenshots_icon')
+INFO     selenium:basepage.py:213 wifi_sign元素完全渲染成功,定位方式('id', 'com.huiyun.care.viewerpro:id/vertical_land_network_speed')
+INFO     selenium:basepage.py:251 video_mode_select元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/play_mode_select')
+INFO     selenium:basepage.py:300 video_mode_select点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/play_mode_select')
+INFO     selenium:basepage.py:232 double_screen_mode元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/video_double_tv')
+INFO     selenium:basepage.py:284 double_screen_mode点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/video_double_tv')
+INFO     selenium:basepage.py:213 wifi_sign元素完全渲染成功,定位方式('id', 'com.huiyun.care.viewerpro:id/vertical_land_network_speed')
+INFO     selenium:basepage.py:268 找到 2 个元素: video_num

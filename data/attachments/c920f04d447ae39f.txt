@@ -1,0 +1,28 @@
+INFO     selenium:basepage.py:191 loading_text元素已消失或不可见, 定位方式('id', 'com.huiyun.care.viewerpro:id/srl_classics_title')
+INFO     selenium:basepage.py:191 loading_completed元素已消失或不可见, 定位方式('xpath', '//android.widget.TextView[@resource-id="com.huiyun.care.viewerpro:id/srl_classics_title"]')
+INFO     selenium:basepage.py:232 more_btn_1元素可点击,定位方式('xpath', "(//android.widget.ImageView[@resource-id='com.huiyun.care.viewerpro:id/settingIv'])[1]")
+INFO     selenium:basepage.py:284 more_btn_1点击元素成功, 定位方式('xpath', "(//android.widget.ImageView[@resource-id='com.huiyun.care.viewerpro:id/settingIv'])[1]")
+INFO     selenium:basepage.py:232 video_setting_btn元素可点击,定位方式('-android uiautomator', 'new UiSelector().text("设置")')
+INFO     selenium:basepage.py:284 video_setting_btn点击元素成功, 定位方式('-android uiautomator', 'new UiSelector().text("设置")')
+INFO     selenium:basepage.py:232 device_setting_btn元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/setting_device_setting_tv')
+INFO     selenium:basepage.py:284 device_setting_btn点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/setting_device_setting_tv')
+INFO     selenium:setting_page.py:48 点击 device_setting_btn 成功
+INFO     selenium:basepage.py:232 screen_mode_btn元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/double_screen_mode_tv')
+INFO     selenium:basepage.py:284 screen_mode_btn点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/double_screen_mode_tv')
+INFO     selenium:device_setting_page.py:22 点击 screen_mode_btn 成功
+INFO     selenium:basepage.py:232 immerse_mode_btn元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/video_immersion_tv')
+INFO     selenium:basepage.py:284 immerse_mode_btn点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/video_immersion_tv')
+INFO     selenium:device_setting_page.py:49 点击 immerse_mode_btn 成功
+INFO     selenium:basepage.py:232 save_btn元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/right_text')
+INFO     selenium:basepage.py:284 save_btn点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/right_text')
+INFO     selenium:device_setting_page.py:112 点击 save_btn 成功
+INFO     selenium:basepage.py:331 获取当前 Activity 成功, Activity 名称: com.huiyun.care.viewer.setting.NewDeviceSettingActivity
+INFO     selenium:basepage.py:523 点击返回键 1/1
+INFO     selenium:basepage.py:331 获取新的 Activity获取当前 Activity 成功, Activity 名称: com.huiyun.care.viewer.main.CareMainActivity
+INFO     selenium:basepage.py:191 loading_text元素已消失或不可见, 定位方式('id', 'com.huiyun.care.viewerpro:id/srl_classics_title')
+INFO     selenium:basepage.py:191 loading_completed元素已消失或不可见, 定位方式('xpath', '//android.widget.TextView[@resource-id="com.huiyun.care.viewerpro:id/srl_classics_title"]')
+INFO     selenium:basepage.py:232 play_btn元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/playBtn')
+INFO     selenium:basepage.py:284 play_btn点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/playBtn')
+INFO     selenium:basepage.py:213 wifi_sign元素完全渲染成功,定位方式('id', 'com.huiyun.care.viewerpro:id/vertical_land_network_speed')
+INFO     selenium:basepage.py:268 找到 2 个元素: video_num
+INFO     selenium:basepage.py:232 immerse_screen_mode_sign元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/screenshots_icon')

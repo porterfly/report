@@ -1,0 +1,29 @@
+INFO     selenium:basepage.py:191 loading_text元素已消失或不可见, 定位方式('id', 'com.huiyun.care.viewerpro:id/srl_classics_title')
+INFO     selenium:basepage.py:191 loading_completed元素已消失或不可见, 定位方式('xpath', '//android.widget.TextView[@resource-id="com.huiyun.care.viewerpro:id/srl_classics_title"]')
+INFO     selenium:basepage.py:232 more_btn_1元素可点击,定位方式('xpath', "(//android.widget.ImageView[@resource-id='com.huiyun.care.viewerpro:id/settingIv'])[1]")
+INFO     selenium:basepage.py:284 more_btn_1点击元素成功, 定位方式('xpath', "(//android.widget.ImageView[@resource-id='com.huiyun.care.viewerpro:id/settingIv'])[1]")
+INFO     selenium:basepage.py:232 video_setting_btn元素可点击,定位方式('-android uiautomator', 'new UiSelector().text("设置")')
+INFO     selenium:basepage.py:284 video_setting_btn点击元素成功, 定位方式('-android uiautomator', 'new UiSelector().text("设置")')
+INFO     selenium:basepage.py:232 device_setting_btn元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/setting_device_setting_tv')
+INFO     selenium:basepage.py:284 device_setting_btn点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/setting_device_setting_tv')
+INFO     selenium:setting_page.py:48 点击 device_setting_btn 成功
+INFO     selenium:basepage.py:232 MULTI_LIGHT_TAG元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/multi_light_tv')
+INFO     selenium:basepage.py:284 MULTI_LIGHT_TAG点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/multi_light_tv')
+INFO     selenium:basepage.py:232 black_white_mode_btn元素可点击,定位方式('id', 'com.huiyun.care.viewerpro:id/new_light_ir_iv')
+INFO     selenium:basepage.py:284 black_white_mode_btn点击元素成功, 定位方式('id', 'com.huiyun.care.viewerpro:id/new_light_ir_iv')
+INFO     selenium:device_setting_page.py:85 点击 black_white_mode_btn 成功
+ERROR    selenium:basepage.py:175 MULTI_LIGHT_TAG等待元素失败, 定位方式('id', 'com.huiyun.care.viewerpro:id/multi_light_tv'), 错误: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (/Users/luson/.appium/node_modules/appium-uiautomator2-driver/node_modules/appium-android-driver/lib/commands/find.ts:86:11)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at AndroidUiautomator2Driver.findElOrElsWithProcessing (/usr/local/lib/node_modules/appium/node_modules/@appium/base-driver/lib/basedriver/commands/find.ts:60:12)
+    at AndroidUiautomator2Driver.findElement (/usr/local/lib/node_modules/appium/node_modules/@appium/base-driver/lib/basedriver/commands/find.ts:75:12)
+ERROR    selenium:basepage.py:151 截图保存成功: /Users/luson/.jenkins/workspace/CamPro-AutoTest/screenshots/MULTI_LIGHT_TAG_20250613_161354.png
+ERROR    selenium:basepage.py:368 MULTI_LIGHT_TAG获取属性失败, 定位方式('id', 'com.huiyun.care.viewerpro:id/multi_light_tv'), 错误: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (/Users/luson/.appium/node_modules/appium-uiautomator2-driver/node_modules/appium-android-driver/lib/commands/find.ts:86:11)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at AndroidUiautomator2Driver.findElOrElsWithProcessing (/usr/local/lib/node_modules/appium/node_modules/@appium/base-driver/lib/basedriver/commands/find.ts:60:12)
+    at AndroidUiautomator2Driver.findElement (/usr/local/lib/node_modules/appium/node_modules/@appium/base-driver/lib/basedriver/commands/find.ts:75:12)
